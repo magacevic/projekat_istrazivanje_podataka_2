@@ -1,3 +1,7 @@
+MUSK VERSION 2
+----------------------------
+
+
 Ovaj projekat se bavi problemom klasifikacije molekula na dvije klase: MUSK i NON-MUSK, korišćenjem metoda mašinskog učenja. 
 Dataset korišćen u radu preuzet je sa UCI Machine Learning repozitorijuma i sadrži veliki broj numeričkih atributa koji opisuju hemijske karakteristike molekula.
 
