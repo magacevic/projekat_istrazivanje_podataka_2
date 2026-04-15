@@ -23,6 +23,6 @@ Struktura direktorijuma u okviru projekta:
 
 ..notebooks/models direktorijum u kojem su sačuvani trenirani modeli
 
-Projekat prateći PDF dokument koji detaljno opisuje tok rada, od pripreme podataka do evaluacije modela.
+Projekat sadrži prateći PDF dokument koji detaljno opisuje tok rada.
 
 Ovaj rad predstavlja kombinaciju sistematičnog pristupa i eksperimentisanja, sa ciljem unapređenja performansi klasifikacionih algoritama.
