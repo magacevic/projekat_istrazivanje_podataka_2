@@ -2,7 +2,7 @@ Ovaj projekat se bavi problemom klasifikacije molekula na dvije klase: MUSK i NO
 Dataset korišćen u radu preuzet je sa UCI Machine Learning repozitorijuma i sadrži veliki broj numeričkih atributa koji opisuju hemijske karakteristike molekula.
 
 Cilj projekta je:
-
+-------------------
 -Primjena različitih klasifikacionih algoritama
 
 -Analiza njihovih performansi
@@ -12,7 +12,7 @@ Cilj projekta je:
 -Poređenje rezultata na redukovanim i originalnim podacima
 
 U okviru projekta organizovana je struktura direktorijuma koja uključuje:
-
+-------------------------------------------------------------------------
 ..data/ direktorijum sa raw i obrađenim podacima
 
 ..notebooks/ direktorijum sa Jupyter notebook-ovima
