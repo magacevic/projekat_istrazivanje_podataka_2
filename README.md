@@ -15,7 +15,7 @@ Cilj projekta je:
 
 -Poređenje rezultata na redukovanim i originalnim podacima
 
-U okviru projekta organizovana je struktura direktorijuma koja uključuje:
+Struktura direktorijuma u okviru projekta:
 -------------------------------------------------------------------------
 ..data/ direktorijum sa raw i obrađenim podacima
 
