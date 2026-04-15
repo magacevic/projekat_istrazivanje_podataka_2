@@ -4,14 +4,19 @@ Dataset korišćen u radu preuzet je sa UCI Machine Learning repozitorijuma i sa
 Cilj projekta je:
 
 -Primjena različitih klasifikacionih algoritama
+
 -Analiza njihovih performansi
+
 -Ispitivanje uticaja redukcije dimenzionalnosti (PCA)
+
 -Poređenje rezultata na redukovanim i originalnim podacima
 
 U okviru projekta organizovana je struktura direktorijuma koja uključuje:
 
 ..data/ direktorijum sa raw i obrađenim podacima
+
 ..notebooks/ direktorijum sa Jupyter notebook-ovima
+
 ..notebooks/models direktorijum u kojem su sačuvani trenirani modeli
 
 Projekat prateći PDF dokument koji detaljno opisuje tok rada, od pripreme podataka do evaluacije modela.
